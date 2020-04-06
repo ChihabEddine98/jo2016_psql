@@ -1,0 +1,84 @@
+Algeria
+Argentina
+Australia
+Austria
+Belgium
+Bolivia
+Bosnia Herzegovina
+Brazil
+Bulgaria
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Czech Republic
+Denmark
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+France
+Gabon
+Georgia
+Germany
+Ghana
+Greece
+Guinea
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland {Republic}
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kenya
+Korea North
+Korea South
+Luxembourg
+Mali
+Mexico
+Monaco
+Montenegro
+Morocco
+Netherlands
+New Zealand
+Niger
+Nigeria
+Norway
+Panama
+Paraguay
+Peru
+Poland
+Portugal
+Romania
+Russia
+Senegal
+Serbia
+Singapore
+Slovakia
+South Africa
+Spain
+Sudan
+Swaziland
+Sweden
+Switzerland
+Tunisia
+Turkey
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Venezuela
